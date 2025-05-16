@@ -1,7 +1,7 @@
 
 # CS 170 | Summer 2025
 
-** Each week's assignment can be found in the slides. If PracticeNow.java is provided, you may use it as a starting point.
+**Each week's assignment can be found in the slides. If PracticeNow.java is provided, you may use it as a starting point.**
 
 ### Week 1:
 
