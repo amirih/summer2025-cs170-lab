@@ -9,7 +9,7 @@
 
 ## Important Notes
 
-- The main purpose of this repository is to provide a platform for you to **_practice and learn_**.
+- The main purpose of this repository is to provide a platform for you to **_practice and learn_** coding and GitHub.
 - You are encouraged to **_experiment_** with the code and try different approaches.
 - In some cases, the code offers an example solution, but it is not the only way to solve the problem. These exercises are designed to help you develop creativity and problem-solving skills to find multiple solutions to a problem.
 - **_Don’t hesitate to reach out if you have any questions via email._**
