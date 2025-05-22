@@ -25,9 +25,9 @@ public class Step08TurtleUseCase {
 	public static void main(String[] args) throws InterruptedException {
 		Turtle t = new Turtle(new TurtleWorld(2000, 1000));
 		// t.delay(2000);
-		for (int steps = 50; steps <= 100; steps += 10) {
-			drawStar(t, steps);
-			reset(t, steps);
+		for (int size = 50; size <= 100; size += 10) {
+			drawStar(t, size);
+			reset(t, size);
 		}
 	}
 }

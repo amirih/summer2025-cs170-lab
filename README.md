@@ -18,6 +18,10 @@
 
 Each week's assignment is available in the slides. Please submit your work in the designated `assignment` folder located within each Lab directory. If `PracticeNow.java` is provided, you may use it as a starting point.
 
+### Deadlines:
+
+- **_Each week's assignment is due before the following week's lab session_**
+
 ### Week 1:
 
 1. **Lab_01:** [Link](Lab_01)

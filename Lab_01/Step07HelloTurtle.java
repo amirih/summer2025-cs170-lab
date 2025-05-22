@@ -5,22 +5,22 @@ import libs.*;
 public class Step07HelloTurtle {
 
   public static void main(String[] args) throws InterruptedException {
-    Turtle example = new Turtle(); // create a new turtle named example
-    example.delay(1000); // set the delay in milliseconds between turtle actions
-    example.forward(200); // move the example forward
-    example.left(90); // rotate the example to the left (counter-clockwise)
-    example.forward(200); // move the example forward
-    example.left(135); // rotate the example to the left (counter-clockwise)
-    example.forward(200); // move the example forward
-    example.backward(50); // move the example backward 50 steps
-    example.right(45); // rotate the example clockwise 45 degrees
-    example.penup(); // example does not draw anymore
-    example.forward(100);
-    example.hideturtle();
-    example.pendown(); // example draws again
-    example.forward(50);
-    example.color("red"); // turns the turtle red
-    example.forward(100);
+    Turtle pointer = new Turtle(); // create a new turtle named pointer
+    pointer.delay(1000); // set the delay in milliseconds between turtle actions
+    pointer.forward(200); // move the pointer forward
+    pointer.left(90); // rotate the pointer to the left (counter-clockwise)
+    pointer.forward(200); // move the pointer forward
+    pointer.left(135); // rotate the pointer to the left (counter-clockwise)
+    pointer.forward(200); // move the pointer forward
+    pointer.backward(50); // move the pointer backward 50 steps
+    pointer.right(45); // rotate the pointer clockwise 45 degrees
+    pointer.penup(); // pointer does not draw anymore
+    pointer.forward(100);
+    pointer.hideturtle();
+    pointer.pendown(); // pointer draws again
+    pointer.forward(50);
+    pointer.color("red"); // turns the turtle red
+    pointer.forward(100);
 
   }
 
