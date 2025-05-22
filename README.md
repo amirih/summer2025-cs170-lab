@@ -24,11 +24,11 @@ Each week's assignment is available in the slides. Please submit your work in th
 
 ### Week 1:
 
+1. **Lab_00:** Configure the platform to run a Java program
 1. **Lab_01:** [Link](Lab_01)
-1. **Lab_02:** [Link](Lab_02)
 
 ### Week 2:
-
+1. **Lab_02:** [Link](Lab_02) 
 1. **Lab_03:** [Link](Lab_03)
 1. **Lab_04:** [Link](Lab_04)
 
