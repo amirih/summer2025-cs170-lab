@@ -1,6 +1,7 @@
 package Lab_03;
 
 import java.io.FileNotFoundException;
+import java.io.FileReader;
 
 public class Step01Errors {
     // The following code has errors.

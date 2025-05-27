@@ -45,7 +45,9 @@ class Step06ShapePractice {
                 }
             }
         }
+        // comment the rest to see the output better
+        shape(t, 700, 700, 50, 30, 330, 3);
+        shape(t, 700, 700, 100, 30, 330, 1);
 
     }
-
 }

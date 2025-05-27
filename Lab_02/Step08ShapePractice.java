@@ -35,9 +35,9 @@ public class Step08ShapePractice {
         int rotate = 0;
 
         shape(t, xCenter, yCenter, size, space, 1, 1, rotate);
-        // shape(t, xCenter, yCenter, size, space, 1, -1, rotate);
-        // shape(t, xCenter, yCenter, size, space, -1, 1, rotate);
-        // shape(t, xCenter, yCenter, size, space, -1, -1, rotate);
+        shape(t, xCenter, yCenter, size, space, 1, -1, rotate);
+        shape(t, xCenter, yCenter, size, space, -1, 1, rotate);
+        shape(t, xCenter, yCenter, size, space, -1, -1, rotate);
 
     }
 
