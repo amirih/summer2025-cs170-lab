@@ -19,9 +19,9 @@ public class Step06ScopeSimple {
 
     public static void main(String[] args) {
         int a = 30;
-        System.out.println("inside the method :" + a);
+        System.out.println("inside the main method :" + a);
         method(20);
-        System.out.println("inside the method :" + a);
+        System.out.println("inside the main method :" + a);
 
     }
 }
